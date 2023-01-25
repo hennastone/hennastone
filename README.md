@@ -1,6 +1,6 @@
 <h1> Ahmet Furkan Kinatas </h1>
 
-### Junior Python Developer
+### Junior Software Developer
 
 <p align="center">
 <a href="https://github.com/hennastone">
